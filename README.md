@@ -5,10 +5,12 @@
 
 什么都要会一点.jpg
 
+主要使用编程语言: Python & Cpp
+
 currently in learning plan:
 - 机器学习
-- tansformer
-- 图形化界面
+- 基于LLM的小说故事生成
+- 图形化界面: PySide6 & SDL3
 
 ## contact:
 [Bilibili - 紫颈斑鸠猫](https://space.bilibili.com/516798598)
